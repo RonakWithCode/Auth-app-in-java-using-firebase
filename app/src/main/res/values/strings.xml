@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Auth app in java using FireBa</string>
+    <string name="HaveAccount">Already have an Account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="have_an_account">I have an account?</string>
+    <string name="login">Login</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log out</string>
+    <string name="sign_up">Sign up</string>
+    <string name="item_name">Item Name</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="wait">Wait</string>
+    <string name="ok">OK</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+</resources>
